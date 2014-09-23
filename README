@@ -1,0 +1,6 @@
+Unix and C Programming Assignment
+Curtin University, Semester 2, 2013
+
+This assignment was done in my first C Programming unit at University.
+The program is a simple calander application written in C, with the use of GTK
+for the GUI.
